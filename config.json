@@ -1,0 +1,9 @@
+{
+  "language": "",
+  "main": "./contracts/GLDToken.sol",
+  "deploy": "./build/contracts/GLDToken.json",
+  "compilers": {
+    "cfxtruffle": "0.0.8",
+    "solc": "0.5.16"
+  }
+}
